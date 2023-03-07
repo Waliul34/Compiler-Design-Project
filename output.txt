@@ -1,0 +1,43 @@
+Header file has been detected
+Header file has been detected
+Variable declared
+Variable declared
+Variable declared
+Value of the variable : 6
+Value of the variable : 9
+Value of the variable : 3
+Print value : 9
+Value of the variable : 2
+Value of the variable : 3
+Value of the variable : 15
+ELSE IF condition detected
+ELSE IF condition is false
+Value of the variable : 54
+ELSE is detected
+IF condition detected
+IF condition is true
+Value inside IF : 3
+Value of the variable : 5
+Value of the variable : 1
+FOR LOOP is detected
+Value of the loop: 5
+Value of the expression inside loop: 1
+Value of the loop: 6
+Value of the expression inside loop: 1
+Value of the loop: 7
+Value of the expression inside loop: 1
+Value of the loop: 8
+Value of the expression inside loop: 1
+Read for variable 
+this is multiple line comment
+Value of the variable : 3
+Value of the variable : 3
+Value of the variable : 2
+Value of the variable : 15
+WHILE LOOP is detected
+While loop running
+Value of the expression inside loop: 15
+Value of the variable : 9
+Maximum value is : 9
+Minimum value is : 3
+Value returned

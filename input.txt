@@ -1,0 +1,58 @@
+#ano <stdio.h>
+#ano <math.h>
+
+number muul{}
+(
+	number a, b, n, i, j, k;;
+	boro c;;
+	doshomik d;;
+	a = 6;;
+	b = 9;;
+	k = 3;;
+	dekhao{b};;
+	
+	n = (2 add 3) mod k;;
+	
+	jodi{a <= b}
+	(
+		k = b sub a;;
+	)
+	r jodi{a > b}
+	(
+		k = b add a;;
+	)
+	noyto
+	(
+		k = a mul b;;
+	)
+	
+	ghuro{a = 5 ;; a < b}
+	(
+		j = n div 2;;
+	)
+	
+	nao{a};;
+	
+	/m/ ghuro{a = 2 ;; a <= b}
+	(
+	
+	) /m/
+	
+	a = 3;;
+	b = a mod 4;;
+	n = 2;;
+	
+	jotokkhon{a somansoman b}
+	(
+		k = 6 add 9;;
+	)
+	
+	n = a add b mul n;;
+	
+	MAX{a, n};;
+	
+	MIN{a, n};;
+	
+	ret 0;;
+		
+)
